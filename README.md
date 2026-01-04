@@ -1,1 +1,2 @@
-# Tweet_Sentiment_Classifier-Deep_Neural_Networks
+## Tweet Sentiment Classifier - Deep Neural Networks
+The second assignment for the course Artificial Inteligence II (YS19). In this assignment, I was required to develop a sentiment classifier using deep neural networks for the given English-language Twitter dataset. I was required to use the machine learning framework PyTorch, and the inputs to the model must be Word2Vec word embeddings. Originally uploaded on Kaggle.
